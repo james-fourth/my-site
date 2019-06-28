@@ -25,12 +25,16 @@ h2 {
 
 h3 {
   color: #11999E;
+  font-family: 'hk_groteskregular', sans-serif;
+  font-weight: 500;
 
 }
 
 p {
   color: #40514E;
   font-size: 1.13rem;
+  font-family: 'hk_groteskregular', sans-serif;
+  font-weight: 500;
 }
 
 hr {
